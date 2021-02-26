@@ -1,0 +1,11 @@
+ethnicity,collected_tests,accessioned_tests,released_tests,valid_tests,opened_tests,positive_tests,positive_rate,inconclusive_tests,pct_released_inconclusive
+Latino/a,263,262,262,256,243,35,0.13671875,4,0.01526717557
+White,36,36,36,36,36,3,0.08333333333,0,0
+Asian,39,39,39,39,34,3,0.07692307692,0,0
+Chinese,5,5,5,5,5,0,0,0,0
+Middle Eastern,2,2,2,2,1,0,0,0,0
+Other,6,6,6,6,5,0,0,0,0
+Filipino,2,2,2,2,2,0,0,0,0
+African American / Black,5,5,5,5,5,0,0,0,0
+Native American,3,3,3,3,1,0,0,0,0
+Native Hawaiian or Other Pacific Islander (NHOP),2,2,2,2,2,0,0,0,0
